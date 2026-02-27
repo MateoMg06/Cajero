@@ -8,9 +8,9 @@ print("-----------CAJERO AUTOMATICO--------------" \
 "4.salir")
 
 
-
 if(menu==1):
     print("su saldo es ",saldo_inicial)
+
 
 
 

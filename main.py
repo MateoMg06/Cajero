@@ -1,3 +1,4 @@
+
 saldo_inicial=1000
 op=int(input("Cuanto operaciones desea realizar"))
 for i in range(op):
@@ -8,20 +9,16 @@ print("-----------CAJERO AUTOMATICO--------------" \
 "3.Depositar Dinero" \
 "4.salir")
 
+
 if(menu==1):
-    print("su saldo es ",saldo_inicial)
-
-
-
-
+    print("su saldo es: ",saldo_inicial)
+    
 
     
 
 
 
-
-
-
+    
 
 
 

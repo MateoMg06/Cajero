@@ -9,9 +9,18 @@ print("1. consultar saldo ")
 print("2. retirar dinero ") 
 print("3. Depositar Dinero ")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("4. salir ") 
 =======
 print("4. salir ")
+>>>>>>> depositar
+=======
+print("4. salir ") 
+
+
+
+
+
 >>>>>>> depositar
 
 if(menu==1):
@@ -37,6 +46,12 @@ if menu == 2:
             print("Depósito exitoso, su saldo actual es:", saldo_inicial)
             break 
     
+<<<<<<< HEAD
+>>>>>>> depositar
+=======
+            
+            
+   
 >>>>>>> depositar
 
 

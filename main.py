@@ -8,7 +8,12 @@ print("-----------CAJERO AUTOMATICO--------------")
 print("1. consultar saldo ") 
 print("2. retirar dinero ") 
 print("3. Depositar Dinero ")
-print("4. salir ")
+print("4. salir ") 
+
+
+
+
+
 
 if menu == 3:
     while True:
@@ -20,7 +25,13 @@ if menu == 3:
             saldo_inicial += monto_depositar
             print("Depósito exitoso, su saldo actual es:", saldo_inicial)
             break 
-     
+    
+            
+            
+   
+
+
+    
 
 
 
@@ -29,9 +40,8 @@ if menu == 3:
 
 
 
-
-
-
+=======
+>>>>>>> retirar
 
 
 

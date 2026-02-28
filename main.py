@@ -21,7 +21,7 @@ if menu == 2:
             print("Retiro exitoso. Saldo actual:", saldo_inicial)
             break
         else:
-            print("Saldo insuficiente, intente otra vez")   
+            print("Saldo insuficiente, intente otra vez")    
 
 
     

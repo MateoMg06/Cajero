@@ -23,8 +23,30 @@ if menu == 2:
             print("Retiro exitoso. Saldo actual:", saldo_inicial)
             break
         else:
+<<<<<<< HEAD
             print("Saldo insuficiente, intente otra vez") 
             
+=======
+            saldo_inicial += monto_depositar
+            print("Depósito exitoso, su saldo actual es:", saldo_inicial)
+            break   
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+>>>>>>> depositar
             
  
 

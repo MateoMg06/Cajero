@@ -8,16 +8,33 @@ print("-----------CAJERO AUTOMATICO--------------")
 print("1. consultar saldo") 
 print("2. retirar dinero") 
 print("3. Depositar Dinero") 
+<<<<<<< HEAD
 print("4. salir ") 
 
 
+=======
+print("4. salir ")
+
+if(menu==1):
+    print("su saldo es: ",saldo_inicial) 
+
+
+
+
+>>>>>>> consultar
 
 
 
         
+<<<<<<< HEAD
     
  
     
+=======
+    
+ 
+    
+>>>>>>> consultar
   
 
 

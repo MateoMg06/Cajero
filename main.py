@@ -1,4 +1,4 @@
-
+import sys
 saldo_inicial=1000
 op=int(input("Cuanto operaciones desea realizar "))
 for i in range(op):
@@ -11,10 +11,11 @@ print("3. Depositar Dinero")
 print("4. salir ")
 
 if menu == 4:
-    print ("gracias por utilizar nuestro servicios")
-else:
-    print("digite un opcion valida")
+    print("Gracias por utilizar nuestros servicios")
+    sys.exit()
 
+else:
+    print("Digite una opción válida")
 
 
 

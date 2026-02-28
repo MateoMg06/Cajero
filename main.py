@@ -2,28 +2,17 @@
 saldo_inicial=1000
 op=int(input("Cuanto operaciones desea realizar "))
 for i in range(op):
-<<<<<<< HEAD
     menu=int(input("digite que desar realizar "))
    
 print("-----------CAJERO AUTOMATICO--------------")
-=======
-   
- print("-----------CAJERO AUTOMATICO--------------")
->>>>>>> retirar
 print("1. consultar saldo") 
 print("2. retirar dinero") 
 print("3. Depositar Dinero") 
 print("4. salir ")
 
-<<<<<<< HEAD
 if(menu==1):
     print("su saldo es: ",saldo_inicial)
     
-
-    
-=======
-menu=int(input("digite que desar realizar "))
-
 if menu == 2:
     while True:
         retiro = int(input("Digite el valor a retirar: "))
@@ -33,11 +22,11 @@ if menu == 2:
             break
         else:
             print("Saldo insuficiente, intente otra vez")
+
     
  
     
   
->>>>>>> retirar
 
 
 

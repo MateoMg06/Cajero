@@ -1,4 +1,3 @@
-
 saldo_inicial=1000
 op=int(input("Cuanto operaciones desea realizar "))
 for i in range(op):
@@ -9,8 +8,6 @@ print("1. consultar saldo ")
 print("2. retirar dinero ") 
 print("3. Depositar Dinero ")
 print("4. salir ")
-
-
 
             
 if menu == 3:
@@ -23,9 +20,22 @@ if menu == 3:
             saldo_inicial += monto_depositar
             print("Depósito exitoso, su saldo actual es:", saldo_inicial)
             break  
-              
-            
-            
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
             
  
 

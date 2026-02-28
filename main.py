@@ -12,7 +12,10 @@ print("4. salir ")
 
 if menu == 4:
     print ("gracias por utilizar nuestro servicios")
-exit()
+else:
+    print("digite un opcion valida")
+
+
 
 
         

@@ -5,10 +5,10 @@ for i in range(op):
     menu=int(input("digite que desar realizar "))
    
 print("-----------CAJERO AUTOMATICO--------------")
-print("1. consultar saldo") 
-print("2. retirar dinero") 
-print("3. Depositar Dinero") 
-print("4. salir ")
+print("1. consultar saldo ") 
+print("2. retirar dinero ") 
+print("3. Depositar Dinero ")
+print("4. salir ") 
 
 if menu == 2:
     while True:
@@ -20,7 +20,26 @@ if menu == 2:
         else:
             print("Saldo insuficiente, intente otra vez")   
 
+
+
     
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
 
 
 

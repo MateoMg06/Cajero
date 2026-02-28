@@ -10,10 +10,12 @@ print("2. retirar dinero")
 print("3. Depositar Dinero") 
 print("4. salir ")
 
-else menu == 4:
-    print("gracias por utilizar nuestro servicios")
-    
-    
+if menu == 4:
+    print ("gracias por utilizar nuestro servicios")
+exit()
+
+
+        
     
  
     

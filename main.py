@@ -1,3 +1,4 @@
+import sys
 saldo_inicial=1000
 op=int(input("Cuanto operaciones desea realizar "))
 for i in range(op):

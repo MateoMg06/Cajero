@@ -10,22 +10,7 @@ print("2. retirar dinero")
 print("3. Depositar Dinero") 
 print("4. salir ")
 
-else menu == 4:
-    print("gracias por utilizar nuestro servicios")
-    
-    
-    
-if menu == 3:
-    while True:
-        monto_depositar = int(input("Digite qué monto desea depositar: "))
 
-        if monto_depositar <= 0:
-            print("Error, digite el monto nuevamente")
-        else:
-            saldo_inicial += monto_depositar
-            print("Depósito exitoso, su saldo actual es:", saldo_inicial)
-            break
-    
  
     
   
